@@ -9,7 +9,7 @@
 
 const SHEET_REGISTRO = 'Registro_Escrituras';
 const SHEET_PARAMETROS = 'Parametros';
-const FORM_ID = '1RUdN-RWFT0Hs0cs3JVpVKq6PA9acgrBYoea0gZfAVpw';
+const FORM_ID = '';
 
 const COL = {
   NUMERO_ESCRITURA: 1,               // A
